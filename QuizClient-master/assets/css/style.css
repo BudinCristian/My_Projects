@@ -1,0 +1,33 @@
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.category-header{
+    height: 100px;
+    padding: 2%;
+}
+
+.categories-error{
+    width: 100%;
+    margin-left: 15px;
+}
+
+#container{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.correct{
+    color: rgb(62, 206, 62);
+    font-weight: bold;
+}
+
+.right{
+    background-color: rgb(62, 206, 62);
+    font-weight: bold;
+}
+
+.wrong {
+    background-color: rgb(219, 23, 23);
+    font-weight: bold;
+}
