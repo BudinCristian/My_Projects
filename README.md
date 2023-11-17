@@ -31,6 +31,10 @@ UnlimitedDB is a web application developed with Angular, Node.js, and Firestore.
 - [BullCowGame](https://github.com/BudinCristian/BullCowGame)
 - [Bunny Hopper](https://github.com/BudinCristian/BunnyHopper)
 
+## Other Graphic Projects
+
+- [Platformer](https://github.com/BudinCristian/PlatformerGame/tree/main)
+
 ## Quiz Project
 
 This project includes two folders, serving as a full-stack application for simulating quizzes:
